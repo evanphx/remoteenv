@@ -1,0 +1,1 @@
+p ENV['TEST_CONSUL']
